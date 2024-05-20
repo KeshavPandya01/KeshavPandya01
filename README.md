@@ -22,7 +22,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d12b0d2e-4ac1-417a-9640-b4df83cb8b75/4e659663-c838-4bab-a4ed-35c4cd4fee86.png" /></a>
+<br/>
+<br/>
+<a href="https://wakatime.com"><img height="600" src="https://wakatime.com/share/@d12b0d2e-4ac1-417a-9640-b4df83cb8b75/4e659663-c838-4bab-a4ed-35c4cd4fee86.png" /></a>
 ###
 
 
