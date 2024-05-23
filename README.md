@@ -24,7 +24,14 @@
 </div>
 <br/>
 <br/>
-<a href="https://wakatime.com"><img height="600" src="https://wakatime.com/share/@d12b0d2e-4ac1-417a-9640-b4df83cb8b75/4e659663-c838-4bab-a4ed-35c4cd4fee86.png" /></a>
-###
+<div style="display: flex; align-items: center;">
+  <a href="https://wakatime.com">
+    <img height="350" src="https://wakatime.com/share/@d12b0d2e-4ac1-417a-9640-b4df83cb8b75/992f47d8-b2af-43f3-9b10-dda1726bd3d7.png" />
+  </a>
+  <a href="https://wakatime.com">
+    <img height="350" src="https://wakatime.com/share/@d12b0d2e-4ac1-417a-9640-b4df83cb8b75/2b0aece8-5d06-4788-adc4-e228006ccdff.png" />
+  </a>
+</div>
+
 
 
