@@ -28,9 +28,9 @@
   <a href="https://wakatime.com">
     <img height="350" src="https://wakatime.com/share/@d12b0d2e-4ac1-417a-9640-b4df83cb8b75/992f47d8-b2af-43f3-9b10-dda1726bd3d7.png" />
   </a>
-  <a href="https://wakatime.com">
-    <img height="350" src="https://wakatime.com/share/@d12b0d2e-4ac1-417a-9640-b4df83cb8b75/2b0aece8-5d06-4788-adc4-e228006ccdff.png" />
-  </a>
+ <a href="https://wakatime.com">
+   <img height="350" src="https://wakatime.com/share/@d12b0d2e-4ac1-417a-9640-b4df83cb8b75/3dc082f9-c5db-4a75-955f-386df52707f2.png" />
+ </a>
 </div>
 
 
